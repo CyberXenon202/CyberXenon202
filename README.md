@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberxenon202" target="blank"><img src="https://img.shields.io/twitter/follow/cyberxenon202?logo=twitter&style=for-the-badge" alt="cyberxenon202" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, CSS**
+- 🌱 I’m currently learning **mySQL, js, php**
 
 - 💬 Ask me about **CSE Student**
 
